@@ -5,7 +5,7 @@ class Links extends CI_Controller {
 	public function index()
 	{
 
-		$data->view = "links";
+		$data->view = $this->session->userdata("language") . "/links";
 
 		$this->page->load( $data );
 		

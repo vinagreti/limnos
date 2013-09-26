@@ -43,6 +43,7 @@
         <a class="page-header-button" href="<?php echo site_url('disciplinas'); ?>">Disciplinas</a>
         <a class="page-header-button" href="<?php echo site_url('fotos'); ?>">Fotos</a>
         <a class="page-header-button" href="<?php echo site_url('links'); ?>">Links</a>
+        <a class="page-header-button" href="<?php echo site_url('language/set/pt-br'); ?>">pt-br</a>
 
       </div>
 

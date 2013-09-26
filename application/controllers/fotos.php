@@ -5,7 +5,7 @@ class Fotos extends CI_Controller {
 	public function index()
 	{
 
-		$data->view = "fotos";
+		$data->view = $this->session->userdata("language") . "/fotos";
 
 		$this->load->helper('directory');
 
@@ -20,7 +20,7 @@ class Fotos extends CI_Controller {
 	public function vendo( $pasta )
 	{
 
-		$data->view = "carousel";
+		$data->view = $this->session->userdata("language") . "/carousel";
 
 		$this->load->helper('directory');
 

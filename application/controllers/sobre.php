@@ -5,7 +5,8 @@ class Sobre extends CI_Controller {
 	public function index()
 	{
 
-		$data->view = "sobre";
+
+		$data->view = $this->session->userdata("language") . "/sobre";
 
 		$this->page->load( $data );
 		

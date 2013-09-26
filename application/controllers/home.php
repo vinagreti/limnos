@@ -5,7 +5,7 @@ class Home extends CI_Controller {
 	public function index()
 	{
 
-		$data->view = "home";
+		$data->view = $this->session->userdata("language") . "/home";
 
 		$this->page->load( $data );
 		

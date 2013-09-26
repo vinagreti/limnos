@@ -15,11 +15,12 @@ class Page {
 
   public function load( $data ) {
 
+    if( ! $this->CI->session->userdata("language") )
+      $this->CI->session->set_userdata("language", "pt-br");
+
     $data->content = $this->CI->load->view($data->view, $data, true);
 
-    //print_r($data->content);
-
-    $this->CI->load->view("template", $data);
+    $this->CI->load->view($this->CI->session->userdata("language") . "/template", $data);
 
   }
 

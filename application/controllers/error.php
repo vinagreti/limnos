@@ -5,7 +5,8 @@ class Error extends CI_Controller {
 	public function incompativel()
 	{
 
-		$data->view = "incompativel";
+
+		$data->view = $this->session->userdata("language") . "/incompativel";
 
 		$this->page->load( $data );
 		

@@ -5,7 +5,7 @@ class Contato extends CI_Controller {
 	public function index()
 	{
 
-		$data->view = "contato";
+		$data->view = $this->session->userdata("language") . "/contato";
 
 		$this->page->load( $data );
 		

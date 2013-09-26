@@ -5,7 +5,8 @@ class Equipe extends CI_Controller {
 	public function index()
 	{
 
-		$data->view = "equipe";
+
+		$data->view = $this->session->userdata("language") . "/equipe";
 
 		$this->page->load( $data );
 		

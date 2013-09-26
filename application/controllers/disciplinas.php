@@ -5,7 +5,8 @@ class Disciplinas extends CI_Controller {
 	public function index()
 	{
 
-		$data->view = "disciplinas";
+
+		$data->view = $this->session->userdata("language") . "/disciplinas";
 
 		$this->page->load( $data );
 		
