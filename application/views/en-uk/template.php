@@ -32,16 +32,16 @@
         <span class="dropdown page-header-button">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Limnos</a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo site_url('contato'); ?>">Contato e localização</a></li>
-            <li><a href="<?php echo site_url('equipe'); ?>">Equipe e Colaboradores</a></li>
-            <li><a href="<?php echo site_url('sobre'); ?>">Sobre</a></li>
+            <li><a href="<?php echo site_url('contato'); ?>">Contact and Location</a></li>
+            <li><a href="<?php echo site_url('equipe'); ?>">People and Collaborators</a></li>
+            <li><a href="<?php echo site_url('sobre'); ?>">About</a></li>
           </ul>
         </span>
 
-        <a class="page-header-button" href="<?php echo site_url('projetos'); ?>">Projetos</a>
-        <a class="page-header-button" href="<?php echo site_url('publicacoes'); ?>">Publicações</a>
-        <a class="page-header-button" href="<?php echo site_url('disciplinas'); ?>">Disciplinas</a>
-        <a class="page-header-button" href="<?php echo site_url('fotos'); ?>">Fotos</a>
+        <a class="page-header-button" href="<?php echo site_url('projetos'); ?>">Projects</a>
+        <a class="page-header-button" href="<?php echo site_url('publicacoes'); ?>">Publications</a>
+        <a class="page-header-button" href="<?php echo site_url('disciplinas'); ?>">Disciplines</a>
+        <a class="page-header-button" href="<?php echo site_url('fotos'); ?>">Photos</a>
         <a class="page-header-button" href="<?php echo site_url('links'); ?>">Links</a>
         <a class="page-header-button" href="<?php echo site_url('language/set/pt-br'); ?>">pt-br</a>
 
@@ -67,11 +67,11 @@
         <a href="http://www.ccb.ufsc.br/ecz/"><img class="footer-logo" src="<?php echo asset_url('img/logo_ccb.jpg'); ?>"></a>
         <a href="http://www.ccb.ufsc.br/"><img class="footer-logo" src="<?php echo asset_url('img/logo_ecz.gif'); ?>"></a>
         <a href="http://www.ufsc.br/"><img class="footer-logo" src="<?php echo asset_url('img/logo_poseco.gif'); ?>"></a>
-        <p>Universidade Federal de Santa Catarina - Centro de Ciências Biológicas - Departamento de Ecologia e Zoologia</p>
-        <p>Laboratório de Ecologia de Águas Continentais</p>
+        <p>Federal University of Santa Catarina - Biological Sciences Centre - Ecology and Zoology Department</p>
+        <p>Continental Waters Ecology Laboratory</p>
         <p>Campus Trindade</p>
         <p>88010-970 - Florianopolis, SC - Brasil</p>
-        <p>Telefone: (48) 37219099 Fax: (48) 37215156</p>
+        <p>Phone: +55 (48) 37219099 Fax: (48) 37215156</p>
       </div>
 
     </div>

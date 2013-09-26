@@ -25,7 +25,7 @@
 
       <div class="container">
 
-        <a href="<?php echo base_url(); ?>"><img src="<?php echo asset_url('img/limnos_vertical_transparent.png'); ?>" style="height:160px; border-radius:10px;" /></a>
+        <a href="<?php echo base_url(); ?>"><img src="<?php echo asset_url('img/logo_limnos.png'); ?>" style="height:160px; border-radius:10px;" /></a>
 
         <a class="page-header-button" href="<?php echo base_url(); ?>">Home</a>
         
@@ -71,7 +71,7 @@
         <p>Laboratório de Ecologia de Águas Continentais</p>
         <p>Campus Trindade</p>
         <p>88010-970 - Florianopolis, SC - Brasil</p>
-        <p>Telefone: (48) 37219099 Fax: (48) 37215156</p>
+        <p>Telefone: +55 (48) 37219099 Fax: (48) 37215156</p>
       </div>
 
     </div>
