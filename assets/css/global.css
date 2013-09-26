@@ -1,0 +1,161 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html,
+body {
+  background: url(../img/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0px;
+
+}
+
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./../img/bg.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/bg.jpg', sizingMethod='scale')";
+
+@media (min-width: 980px) {
+
+  .dropdown-menu .sub-menu {
+      left: 100%;
+      position: absolute;
+      top: 0;
+      visibility: hidden;
+      margin-top: -1px;
+  }
+
+  .dropdown-menu li:hover .sub-menu {
+      visibility: visible;
+  }
+
+  .dropdown:hover .dropdown-menu {
+      display: block;
+  }
+
+  .nav-tabs .dropdown-menu, .nav-pills .dropdown-menu, .navbar .dropdown-menu {
+      margin-top: 0;
+  }
+
+  .navbar .sub-menu:before {
+      border-bottom: 7px solid transparent;
+      border-left: none;
+      border-right: 7px solid rgba(0, 0, 0, 0.2);
+      border-top: 7px solid transparent;
+      left: -7px;
+      top: 10px;
+  }
+  .navbar .sub-menu:after {
+      border-top: 6px solid transparent;
+      border-left: none;
+      border-right: 6px solid #fff;
+      border-bottom: 6px solid transparent;
+      left: 10px;
+      top: 11px;
+      left: -6px;
+  }
+  
+}
+
+
+.container{
+
+  margin: auto;
+
+}
+
+.page-nav{
+
+  height: 160px;
+
+  width: 100%;
+
+  padding: 10px 0px;
+
+  text-align: center;
+
+  background: rgba(0, 0, 0, 0.7);
+
+  filter:alpha(opacity=40); /* For IE8 and earlier */
+
+  color: white;
+
+}
+
+.page-nav .container{
+
+  width: 98%;
+
+  margin: auto;
+
+}
+
+.page-nav .page-header-button{
+
+  text-align: left;
+
+  font-size: 20px;
+
+  font-weight:bold;
+
+  margin: 0px 18px;
+
+}
+
+.container .content{
+
+  min-height: 900px;
+
+  width: 98%;
+
+  margin: 20px auto;
+
+  background-color: white;
+
+  background: rgba(255, 255, 255, 0.8);
+
+  border-radius: 7px;
+
+  padding: 10px;
+
+  color:black;
+
+  text-align:justify;
+
+  text-justify:inter-word;
+
+}
+
+.page-footer{
+
+  width: 100%;
+
+  text-align: center;
+
+  background: rgba(0, 0, 0, 0.7);
+
+  filter:alpha(opacity=40); /* For IE8 and earlier */
+
+  color: white;
+
+}
+
+.page-footer .container{
+
+  width: 98%;
+
+  margin: 20px auto 0px auto;
+
+}
+
+.footer-logo{
+
+  margin:20px;
+
+}
+
+.imagem_galeria{
+
+  height: 500px;
+
+}
