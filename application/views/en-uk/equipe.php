@@ -1,10 +1,10 @@
 <div class="row-fluid">
 	<div class="offset1 span22">
-		<h1 class="text-center">Equipe</h1>
+		<h1 class="text-center">People and collaborators</h1>
 
 			<br></br>
 
-			<h2>Coordenador</h2>
+			<h2>Coordinator</h2>
 
 			<div class="row-fluid">
 				<div class="span3">
@@ -20,7 +20,7 @@
 
 			</div>
 
-			<br></br><h2>Alunos</h2>
+			<br></br><h2>Present Students</h2>
 
 			<div class="row-fluid">
 				<div class="span3">
@@ -222,7 +222,7 @@
 
 			</div>
 
-			<br></br><h2>Docentes / Colaboradores</h2>
+			<br></br><h2>Associated Researchers</h2>
 
 			<hr>
 

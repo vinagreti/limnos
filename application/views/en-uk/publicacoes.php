@@ -1,6 +1,6 @@
 <div class="row-fluid">
 	<div class="offset1 span22">
-		<h1 class="text-center">Publicações</h1>
+		<h1 class="text-center">Publications</h1>
 
 			<br></br>
 

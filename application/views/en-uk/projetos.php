@@ -1,37 +1,39 @@
 <div class="row-fluid">
 	<div class="offset1 span22">
-		<h1 class="text-center">Projetos</h1>
+		<h1 class="text-center">Projects</h1>
 
 			<br></br>
 
-			<h2>Em andamento</h2>
+			<h2>Ongoing Projects</h2>
 
-			<p><strong>Concentrações do Carbono e Taxas de Produção Primária na Lagoa do Peri, Florianópolis.</strong></p>
+			<p><strong>Carbon Concentrations and Primary Production Rates in Peri Lagoon, Florianópolis.</strong></p>
 
-			<strong>Descrição:</strong> Edital MCT/CNPq 14/2008 - Universal - Faixa A.</br>
-			<strong>Situação:</strong> Em andamento;</br>
-			<strong>Natureza:</strong> Pesquisa.</br>
-			<strong>Integrantes:</strong> Mauricio Mello Petrucio – Coordenador.
+			<strong>Description:</strong> Edital MCT/CNPq 14/2008 - Universal - Faixa A.</br>
+			<strong>Situation:</strong> Ongoing;</br>
+			<strong>Nature:</strong> Research.</br>
+			<strong>Team:</strong> Mauricio Mello Petrucio – Coordenador.
 
 			<hr>
 
-			<p><strong>Avaliação da integridade ecológica dos riachos que abastecem a Lagoa do Peri (Ilha de Santa Catarina, SC) através das assembléias de macroinvertebrados e decomposição de detritos foliares.</strong></p>
+			<p><strong>Estimation of the Peri Lagoon streams ecological integrity (Florianópolis, SC) through the macroinvertebrate assemblages and leaf litter breakdown.</strong></p>
 
 			(Edital MCT/CNPq/CT-Hidro nº 22/2009)</br>
-			<strong>Situação:</strong> Em andamento;</br>
-			<strong>Natureza:</strong> Pesquisa</br>
-			<strong>Integrantes:</strong> Ana Emilia Siegloch, Mauricio Mello Petrucio
+			<strong>Situation:</strong> Ongoing;</br>
+			<strong>Nature:</strong> Research</br>
+			<strong>Team:</strong> Ana Emilia Siegloch, Mauricio Mello Petrucio
 
 			<hr>
 
-			<p><strong><a href="http://www.limnos.ufsc.br/projetodinamica.html" target="_blank">Diversidade e a Dinâmica da Vegetação Ripária em Bacias Hidrográficas.</a></strong></p>
+			<p><strong><a href="<?php echo site_url('projetodinamica'); ?>">Diversity and Dinamic of Riparian Vegetation in Watersheeds.</a></strong></p>
 
-			<strong>Situação:</strong> Em andamento;</br>
-			<strong>Natureza:</strong> Pesquisa. </br>
-			<strong>Integrantes:</strong> Mauricio Mello Petrucio – Coordenador / José Francisco Gonçalves Júnior – Integrante / Adriana de Oliveira Medeiros – Integrante / Anderson Medeiros dos Santos – Integrante. </br>
-			<strong>Financiador:</strong> Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+			<strong>Situation:</strong> Ongoing;</br>
+			<strong>Nature:</strong> Research. </br>
+			<strong>Team:</strong> Mauricio Mello Petrucio – Coordenador / José Francisco Gonçalves Júnior – Integrante / Adriana de Oliveira Medeiros – Integrante / Anderson Medeiros dos Santos – Integrante. </br>
+			<strong>Financier:</strong> CAPES - Higher Education Personnel Improvement Coordination
 
-			<h2>Concluídos</h2>
+			<br></br>
+
+			<h2>Finished Projects</h2>
 
 			<p><strong>Distribuição e diversidade da comunidade de macroinvertebrados bentônicos presentes na Lagoa do Peri-SC.</strong></p>
 			Dissertação de Aurea Luiza Lemes - Mestrado em Ecologia ( CAPES 4), Universidade Federal de Santa Catarina.</br>

@@ -9,12 +9,13 @@
 		<p>O Laboratório de Ecologia de Águas Continentais desenvolve pesquisas com
 		ênfase em qualidade de água, diversidade de organismos e processos
 		ecológicos em ambientes aquáticos continentais (lagoas, rios, áreas
-		alagadas e reservatórios). Os projetos do laboratório visam
+		alagadas e reservatórios).
+		<br>Os projetos do laboratório visam
 		principalmente conhecer a biodiversidade dos ecossistemas aquáticos da
 		região, com vistas à conservação; e acompanhar os efeitos das ações
 		antrópicas que podem causar modificações na estrutura e funcionamento
 		desses ecossistemas antes mesmo que estes sejam amplamente conhecidos.
-		Temos como linhas temáticas principais a caracterização dos ambientes, o
+		<br>Temos como linhas temáticas principais a caracterização dos ambientes, o
 		fluxo de energia, a ciclagem de nutrientes e a conservação de
 		ecossistemas aquáticos continentais.</p>
 

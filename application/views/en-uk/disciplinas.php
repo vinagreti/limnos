@@ -1,6 +1,6 @@
 <div class="row-fluid">
 	<div class="offset1 span22">
-		<h1 class="text-center">Disciplinas</h1>
+		<h1 class="text-center">Courses</h1>
 
 		<br></br>
 

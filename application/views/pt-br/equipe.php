@@ -222,7 +222,7 @@
 
 			</div>
 
-			<br></br><h2>Docentes / Colaboradores</h2>
+			<br></br><h2>Colaboradores</h2>
 
 			<hr>
 

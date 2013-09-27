@@ -2,33 +2,33 @@
 
 	<div class="offset1 span22">
 
-		<h1 class="text-center">Laboratório de Ecologia de Águas Continentais</h1>
+		<h1 class="text-center">Continental Waters Ecology Laboratory</h1>
 
 		<br></br>
 
-		<p>O Laboratório de Ecologia de Águas Continentais desenvolve pesquisas com
-		ênfase em qualidade de água, diversidade de organismos e processos
-		ecológicos em ambientes aquáticos continentais (lagoas, rios, áreas
-		alagadas e reservatórios). Os projetos do laboratório visam
-		principalmente conhecer a biodiversidade dos ecossistemas aquáticos da
-		região, com vistas à conservação; e acompanhar os efeitos das ações
-		antrópicas que podem causar modificações na estrutura e funcionamento
-		desses ecossistemas antes mesmo que estes sejam amplamente conhecidos.
-		Temos como linhas temáticas principais a caracterização dos ambientes, o
-		fluxo de energia, a ciclagem de nutrientes e a conservação de
-		ecossistemas aquáticos continentais.</p>
+		<p>
+		The Laboratory of Freshwater Ecology develops researches with an
+		emphasis on water quality, diversity of organisms and ecological
+		processes in freshwater ecosystems (lakes, rivers, wetlands and reservoirs).
+		<br>The laboratory projects aimed mainly the knowledge of biodiversity and
+		conservation in aquatic ecosystems of the region; and monitor the effects
+		of human actions that can cause changes in the structure and functioning of
+		these ecosystems before they are widely known. 
+		<br>The main thematic areas are: the characterization of environments, the energy
+		flow and nutrient cycling, and conservation of freshwater ecosystems.
+		</p>
 
 		<hr>
 
-		<h2>Próximos eventos</h2>
+		<h2>Incomming events</h2>
 
 		<a href="http://www.sil2013.hu/" target="_blank">
-			<h5><li> De 04 a 09 de Agosto de 2013 — Budapeste, Hungria. </li></h5>
+			<h5><li> From 04 to 09 of August of 2013 — Budapeste, Hungria. </li></h5>
 			<img src="<?php echo asset_url('img/hungria.jpg'); ?>" />
 		</a>
 
 		<a href="http://cblbonito2013.com.br/" target="_blank">
-			<h5><li> De 08 a 12 de Setembro de 2013 — Bonito, MS. </li></h5>
+			<h5><li> From 08 to 12 of September of 2013 — Bonito, MS. </li></h5>
 			<img src="<?php echo asset_url('img/bonito.jpg'); ?>" />
 		</a>
 

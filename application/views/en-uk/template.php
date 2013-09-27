@@ -68,7 +68,7 @@
         <a href="http://www.ccb.ufsc.br/"><img class="footer-logo" src="<?php echo asset_url('img/logo_ecz.gif'); ?>"></a>
         <a href="http://www.ufsc.br/"><img class="footer-logo" src="<?php echo asset_url('img/logo_poseco.gif'); ?>"></a>
         <p>Federal University of Santa Catarina - Biological Sciences Centre - Ecology and Zoology Department</p>
-        <p>Continental Waters Ecology Laboratory</p>
+        <p>Laboratory of Freshwater Ecology</p>
         <p>Campus Trindade</p>
         <p>88010-970 - Florianopolis, SC - Brasil</p>
         <p>Phone: +55 (48) 37219099 Fax: (48) 37215156</p>

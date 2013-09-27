@@ -1,6 +1,6 @@
 <div class="row-fluid">
 	<div class="offset1 span22">
-		<h1 class="text-center">Contato e localização</h1>
+		<h1 class="text-center">Contact and location</h1>
 
 		<br></br>
 
@@ -10,13 +10,13 @@
 
 				<br></br>
 
-				<p><strong>Laboratório de Ecologia de Águas Continentais</strong></p>
-				<p>Depto de Ecologia e Zoologia</p>
-				<p>Centro de Ciências Biológicas</p>
-				<p>Universidade Federal de Santa Catarina, Campus Universitário.</p>
+				<p><strong>Laboratory of Freshwater Ecology</strong></p>
+				<p>Ecology and Zoology Department (ECZ)</p>
+				<p>Biological Sciences Centre (CCB)</p>
+				<p>Federal University of Santa Catarina, Campus Universitário.</p>
 				<p>Trindade, Florianópolis - Santa Catarina, Brasil</p>
 				<p>CEP 88010-970</p>
-				<p>Tel: +55 48 3721-6429 ou 3721-9884 ou 3721-9099</p>
+				<p>Phone: +55 48 3721-6429 ou 3721-9884 ou 3721-9099</p>
 				<p>Fax: +55 48 3721-5156</p>
 				<p>e-mail:limnos@ccb.ufsc.br</p>
 
