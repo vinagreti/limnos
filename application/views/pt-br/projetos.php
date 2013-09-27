@@ -24,7 +24,7 @@
 
 			<hr>
 
-			<p><strong><a href="http://www.limnos.ufsc.br/projetodinamica.html" target="_blank">Diversidade e a Dinâmica da Vegetação Ripária em Bacias Hidrográficas.</a></strong></p>
+			<p><strong><a href="<?php echo site_url('projetodinamica'); ?>">Diversidade e a Dinâmica da Vegetação Ripária em Bacias Hidrográficas.</a></strong></p>
 
 			<strong>Situação:</strong> Em andamento;</br>
 			<strong>Natureza:</strong> Pesquisa. </br>

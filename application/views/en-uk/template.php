@@ -25,7 +25,7 @@
 
       <div class="container">
 
-        <a href="<?php echo base_url(); ?>"><img src="<?php echo asset_url('img/limnos_vertical_transparent.png'); ?>" style="height:160px; border-radius:10px;" /></a>
+        <a href="<?php echo base_url(); ?>"><img src="<?php echo asset_url('img/logo_limnos.png'); ?>" style="height:160px; border-radius:10px;" /></a>
 
         <a class="page-header-button" href="<?php echo base_url(); ?>">Home</a>
         
